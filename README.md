@@ -21,7 +21,7 @@ Before you begin, make sure you have the following software and dependencies ins
 
 1. Clone this repository to your local machine:
 
-   https://github.com/Microtec-sa/flutter-task
+   https://github.com/Ibrahimadhraf/MicrotecTask
    2.Change your working directory to the project folder:
     cd your-flutter-app
    3.Install the app's dependencies:
